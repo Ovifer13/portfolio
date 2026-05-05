@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "subtitle": "Frontend Developer & Engineer",
+    "description": "Desarrollo paginas web con React, Next.js y TypeScript.",
+    "cta_github": "GitHub",
+    "cta_contact": "Hablemos"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "bio": "Ingeniero Frontend con más de 4 años de experiencia. Me especializo en el desarrollo de interfaces web, accesibles y de alto rendimiento que conectan arquitecturas complejas con experiencias de usuario excepcionales.<br/>Mis herramientas principales son React, Next.js y TypeScript. Actualmente experimentando con shadcn/ui tras años con Chakra UI.<br/>Cuando no estoy programando, probablemente estoy metido en algún videojuego."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "compass": "Desarrollé y lancé nuevas funcionalidades en una plataforma de minería de criptomonedas con miles de usuarios. Trabajé a lo largo del árbol de componentes React, mejoré el rendimiento de la UI y participé en code reviews y testing.",
+    "onpoint": "Lideré el desarrollo frontend como ingeniero principal. Diseñé y construí la presencia web de la empresa de extremo a extremo, enfocándome en captación de leads, UX clara y tiempos de carga rápidos.",
+    "setlife": "Desarrollo full-stack en servicios frontend y backend. Construí y mantuve funcionalidades usando React y Node.js, colaborando estrechamente con los equipos de producto y diseño."
+  },
+  "skills": {
+    "title": "Habilidades y Tecnologías",
+    "languages": "Lenguajes",
+    "frameworks": "Frameworks y Librerías",
+    "styling": "Estilos",
+    "data": "Datos y APIs",
+    "testing": "Testing"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "view_live": "Ver en vivo",
+    "setlife": "Página principal de Setlife Solutions. Enfocada en rendimiento, claridad visual y comunicar efectivamente la propuesta de valor de la empresa.",
+    "onpoint": "Sitio de captación de leads e información para una empresa de seguros. Construido para informar a los visitantes y convertirlos en prospectos.",
+    "compass": "Desarrollo de nuevas funcionalidades, refactorización, code reviews y testing en una plataforma de minería de criptomonedas con miles de usuarios."
+  },
+  "contact": {
+    "title": "Contáctame",
+    "description": "Disponible para nuevas oportunidades y proyectos interesantes. No dudes en escribirme."
+  },
+  "footer": {
+    "built": "Desarrollado con Next.js, Tailwind y shadcn/ui"
+  }
+}

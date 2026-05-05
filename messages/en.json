@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "subtitle": "Frontend Developer & Engineer",
+    "description": "Building fast web interfaces with React, Next.js, and TypeScript",
+    "cta_github": "GitHub",
+    "cta_contact": "Let's talk"
+  },
+  "about": {
+    "title": "About me",
+    "bio": "Frontend Developer/Engineer based in Caracas, Venezuela, with 4+ years of professional experience. I specialize in engineering fast, accessible, and high-performance web interfaces that bridge the gap between complex business logic and seamless user experiences.<br/>My core stack revolves around React, Next.js, and TypeScript. Having led digital transformations—including migrating legacy systems to modern architectures—and worked within high-scale corporate environments, I prioritize clean code and software reliability through automated testing. I am currently evolving my design system expertise by transitioning from Chakra UI to shadcn/ui to build even more flexible and lightweight components.<br/>When I'm not shipping features, you'll likely find me diving into gaming."
+  },
+  "experience": {
+    "title": "Experience",
+    "compass": "Developed and shipped new features on a crypto mining platform serving thousands of users. Worked across the React component tree, improved UI performance, and contributed to code reviews and testing.",
+    "onpoint": "Led frontend development as the primary engineer. Designed and built the company's web presence end-to-end, focusing on lead generation, clear UX, and fast load times.",
+    "setlife": "Full-stack development across frontend and backend services. Built and maintained features using React and Node.js, collaborating closely with the product and design teams."
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "languages": "Languages",
+    "frameworks": "Frameworks & Libraries",
+    "styling": "Styling",
+    "data": "Data & APIs",
+    "testing": "Testing"
+  },
+  "projects": {
+    "title": "Projects",
+    "view_live": "View live",
+    "setlife": "Corporate website for Setlife Solutions. Focused on performance, visual clarity, and effectively communicating the company's value proposition.",
+    "onpoint": "Lead generation and information site for an insurance company. Built to inform visitors and convert them into prospects through clear UX and fast load times.",
+    "compass": "Feature development, refactoring, code reviews, and testing on a crypto mining platform serving thousands of users."
+  },
+  "contact": {
+    "title": "Get in touch",
+    "description": "Open to new opportunities and interesting projects. Feel free to reach out."
+  },
+  "footer": {
+    "built": "Built with Next.js, Tailwind & shadcn/ui"
+  }
+}
