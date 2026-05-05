@@ -17,7 +17,7 @@ export function Skills() {
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.1 }}
-          transition={{ duration: 3, ease: "easeOut" }}
+          transition={{ duration: 1, ease: "easeOut" }}
           className="flex flex-col items-center"
         >
           <h2 className="text-3xl font-bold mb-12">{t("title")}</h2>
@@ -28,7 +28,7 @@ export function Skills() {
                 initial={{ opacity: 0, y: 16 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                transition={{ duration: 3, delay: i * 0.15, ease: "easeOut" }}
+                transition={{ duration: 1, delay: i * 0.15, ease: "easeOut" }}
               >
                 <h3 className="text-xs font-semibold text-muted-foreground uppercase tracking-widest mb-4">
                   {t(group.key as Parameters<typeof t>[0])}

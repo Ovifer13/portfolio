@@ -16,7 +16,7 @@ export function Experience() {
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.1 }}
-          transition={{ duration: 3, ease: "easeOut" }}
+          transition={{ duration: 1, ease: "easeOut" }}
         >
           <h2 className="text-3xl font-bold mb-12">{t("title")}</h2>
           <div className="flex flex-col divide-y divide-border/60">
@@ -26,7 +26,7 @@ export function Experience() {
                 initial={{ opacity: 0, y: 16 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                transition={{ duration: 3, delay: i * 0.15, ease: "easeOut" }}
+                transition={{ duration: 1, delay: i * 0.15, ease: "easeOut" }}
                 className="py-8 first:pt-0 last:pb-0"
               >
                 <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-1 mb-3">

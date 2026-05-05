@@ -42,7 +42,7 @@ export function Contact() {
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.1 }}
-          transition={{ duration: 3, ease: "easeOut" }}
+          transition={{ duration: 1, ease: "easeOut" }}
         >
           <h2 className="text-3xl font-bold mb-4">{t("title")}</h2>
           <p className="text-muted-foreground mb-12 max-w-md mx-auto leading-relaxed">
