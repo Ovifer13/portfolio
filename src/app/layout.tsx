@@ -25,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      className={`${spaceGrotesk.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${spaceGrotesk.variable} ${geistMono.variable} h-full antialiased relative`}
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col">{children}</body>
